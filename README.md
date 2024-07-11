@@ -20,6 +20,7 @@ This repository is for personal use and showcase purposes. However, feedback and
 
 ## Contact
 Konstantinos Giannopoulos
+
 LinkedIn: https://www.linkedin.com/in/kongiannopoulos/
 
 ## Check out my Other Projects!
