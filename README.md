@@ -24,5 +24,7 @@ LinkedIn: https://www.linkedin.com/in/kongiannopoulos/
 
 ## Check out my Other Projects!
 Customer Segmentation and Churn Prediction: https://github.com/GiannopoulosK/CustomerSegmentation-Churn
+
 Youtube API Data Retriever: https://github.com/GiannopoulosK/Youtube-Api-Playlist-Data-Retriever
+
 Machine Learning from Scratch: https://github.com/GiannopoulosK/ML-Algorithms-From-Scratch
